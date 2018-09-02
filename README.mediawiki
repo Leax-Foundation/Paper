@@ -152,7 +152,23 @@ The global public can trade and transact all their properties and real estate pr
 
 Everybody together, a global community, an ecosystem:
 
- INVESTORS |  NEGOTIATORS |  PROPERTY |  BROKERS |  AGENTS 
- INSTITUTIONS |  NOTARY |  COMPANIES |  SPECIALISTS |  DEVELOPERS 
+{| class="wikitable"
+|-
+! scope="col"| INVESTORS
+! scope="col"| NEGOTIATORS
+! scope="col"| PROPERTY
+! scope="col"| BROKERS
+! scope="col"| AGENTS
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| INSTITUTIONS
+! scope="col"| NOTARY
+! scope="col"| COMPANIES
+! scope="col"| SPECIALISTS
+! scope="col"| DEVELOPERS
+|-
+|}
 
 A comprehensive and integrated ecosystem, which facilitates the real estate process transition to the blockchain through the Leaxcoin platform and ecosystem.
