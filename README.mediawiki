@@ -90,7 +90,7 @@ The success of the Leaxcoin platform will be totally achieved with a global comm
 
 The Leaxcoin will be used for several things in the cryptocurrency market. Therefore, we can say with absolute certainty that the Leaxcoin is a unique opportunity for growth, especially now, with the virtual currency market in constant and significant growth.
 
-[[File:Images/plataform.png|Leaxcoin Plataform.]]
+[[File:Images/smart_contract.png|Leaxcoin Process in Plataform.]]
 
 =The Tiring Experience of Real Estate Negotiations=
 
@@ -172,3 +172,115 @@ Everybody together, a global community, an ecosystem:
 |}
 
 A comprehensive and integrated ecosystem, which facilitates the real estate process transition to the blockchain through the Leaxcoin platform and ecosystem.
+
+<blockquote> '''An ultimate solution that hosts all the real estate processes.''' </blockquote>
+
+Developed to be user-centered, the Leaxcoin ecosystem makes it possible to unify the cryptographic and the whole traditional investment processes, making it user-friendly, faster, safer and less bureaucratic.
+
+By becoming a user-friendly ecosystem of real estate Blockchain products, the Leaxcoin platform, along with the efforts of our community, will allow an easy and simple way of interaction in the real estate transactions in a decentralized service.
+
+[[File:Images/plataform.png|Leaxcoin Plataform.]]
+
+'''THE LEAXCOIN ECOSYSTEM WILL FOCUS ON THE FOLLOWING ELEMENTS'''
+
+===Property Registry===
+
+[[File:Images/world_transaction.png|Property Registry]]
+
+{| class="wikitable"
+|-
+! scope="col"| Details
+|Simple, easy and intuitive system;
+|Global interaction of property registry maintenance;
+|Extensive Community and Global Support;
+|-
+|}
+
+'''PROPERTY REGISTRY LEAXCOIN'''
+
+Our aim is to ensure the feasibility of the real estate transfer. We can make the entire process safe, fast and protected by the Blockchain technology.
+
+The whole process will be carried out in conjunction with our global community, as it is through the work and support of everyone that we will make it possible.
+
+After all, the whole environment of the Leaxcoin platform is intended for communities, having tools, applications and solutions to a seamless integration with real estate registry offices, notaries and governmental institutions, complying with the jurisdiction of each place.
+
+'''The Leaxcoin platform is protected by blockchain and the security of information and documents is our number one priority!'''
+
+<blockquote> ''' “We have created an encrypted, unaltered and protected database.” '''<blockquote> 
+
+The real estate experience will be simple, easy and intuitive – as well as safe, as we mentioned
+above.
+
+We can claim that we are a large Global Community, building a bridge to integrate the Leaxcoin platform with real estate organizations and registrars, complying with the jurisdiction of every country, state or city – thus guaranteeing authenticity and legal legimacy.
+
+We can only succeed through the community and with its work. Together we can go much further and make this integration with the Leaxcoin technology possible in real estate transactions! In this way, we will be the best global reference with our tireless efforts to have all the regulations approved and used for real estate transactions integrated with our Leaxcoin platform.
+
+We are committed to guarantee that all the services will be in compliance with all the government regulations in each jurisdiction, always looking for quick and effective ways to eliminate risks and fraud.
+
+===Smart Contract===
+
+The Leaxcoin platform is an important application of the blockchain technology in the form of Smart Contracts. These contracts are self-fulfilling agreements between the network members. Any information entered into these contracts is automatically treated according to a previously agreed protocol.
+
+As this protocol is the only transaction arbiter, it can be carried out in a transparent way, free from conflicts, without high costs and time consuming intermediaries or other verification processes.
+
+[[File:Images/smart_contract_plataform.png|Real Estate Contracts]]
+
+====Real Estate Contracts====
+
+'''REAL ESTATE CONTRACTS LEAXCOIN'''
+
+Our global Leaxcoin contract platform consists of a system whose model allows contract managers to use a personalized smart contract to meet the specific needs of their real estate transactions – keeping in mind: always in compliance with the local statutes for their jurisdiction.
+
+[[File:Images/registry.png|Registry]]
+
+{| class="wikitable"
+|-
+! scope="col"| Operation
+|1- Both Parts Agree to Transact a property
+|2 - The Leaxcoin smart contract manages the relationship between the parts
+|3 - The Leaxcoin Smart Contract executes and closes the agreement
+|-
+|}
+
+'''Here is an example:'''
+
+In order to complete a property transaction, both users must have their Leaxcoin wallet. In this case, the seller draws up the purchase agreement and then inserts it through the Leaxcoin platform on the Blockchain.
+
+The potential buyer receives this contract, analyzes every clause and may or may not accept it. If the buyer agrees with the contract, he/she sends the value referring to the property to the seller’s wallet address. However, this value will only be released when both users confirm that:
+
+<blockquote> ''' Value received, but frozen. '''<blockquote> 
+
+<blockquote> ''' The property register is in the name of the buyer. '''<blockquote> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
