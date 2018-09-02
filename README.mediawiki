@@ -381,21 +381,14 @@ The Leaxcoin wallet will be fully developed on the Ethereum blockchain network, 
 [[File:Images/community.png|Community]]
 
 
-{| class="wikitable"
-|-
-! scope="col"| Details
-|-
-! scope="row"| DECENTRALIZED ORGANIZATION
-|-
-! scope="row"|              EMBASSADORS ALL OVER THE WORLD                   
-|-
-! scope="row"| INCENTIVE AND REWARD PROGRAMS
-|-
-! scope="row"| VOTING ORGANIZATION SYSTEM
-|}
-
 <blockquote> ''' “Leaxcoin is pleased to be a true real estate community all over the world “ '''<blockquote> 
 
+
+# '''Features'''
+## '''DECENTRALIZED ORGANIZATION'''
+## '''EMBASSADORS ALL OVER THE WORLD'''
+## '''INCENTIVE AND REWARD PROGRAMS'''
+## '''VOTING ORGANIZATION SYSTEM'''
 
 '''TOGETHER, WE JOIN FORCES TO BUILD A GLOBAL COMMUNITY OF THE BLOCKCHAIN REVOLUTION ENTHUSIASTS, PROVIDING NEW RESOURCES IN ORDER TO FOMENT THE REAL ESTATE WORLD REVOLUTION.'''
 
@@ -681,7 +674,7 @@ The perfect solution to all investors who want to guarantee their success in the
 
 =Liability Exemption=
 
-#General Warning – By using our services and participating in our ICO, you fully understand that:#
+#General Warning – By using our services and participating in our ICO, you fully understand that:
 
 ## Taxpayers are advised to read this document carefully and assess the risks accurately, according to their personal definitions.
 
