@@ -205,19 +205,13 @@ By becoming a user-friendly ecosystem of real estate Blockchain products, the Le
 {| class="wikitable"
 |-
 ! scope="col"| Details
+! scope="col"| Operation
 |-
 ! scope="row"| Simple, easy and intuitive system
 |-
-|}
-{| class="wikitable"
+! scope="row"| Global interaction of property registry maintenance
 |-
-! scope="col"| Global interaction of property registry maintenance
-|-
-|}
-{| class="wikitable"
-|-
-! scope="col"| Extensive Community and Global Support
-|-
+! scope="row"| Extensive Community and Global Support
 |}
 
 
@@ -266,16 +260,9 @@ Our global Leaxcoin contract platform consists of a system whose model allows co
 |-
 ! scope="row"| Both Parts Agree to Transact a property
 |-
-|}
-{| class="wikitable"
+! scope="row"| The Leaxcoin smart contract manages the relationship between the parts
 |-
-! scope="col"| The Leaxcoin smart contract manages the relationship between the parts
-|-
-|}
-{| class="wikitable"
-|-
-! scope="col"| The Leaxcoin Smart Contract executes and closes the agreement
-|-
+! scope="row"| The Leaxcoin Smart Contract executes and closes the agreement
 |}
 
 
@@ -329,28 +316,20 @@ This Leaxcoin platform module allows companies, developers and owners to tokeniz
 
 [[File:Images/api.png|Crowdsale Real State]]
 
-'''Example:'''
 
 {| class="wikitable"
 |-
-! scope="col"| An incorporator intends to start selling a new enterprise at the launching stage of fraction or percentage.
+! scope="col"| Example
 |-
+! scope="row"| An incorporator intends to start selling a new enterprise at the launching stage of fraction or percentage.
+|-
+! scope="row"| The enterprise project is checked and evaluated by our community
+|-
+! scope="row"| The Leax platform tokenizes the enterprise or part of it virtually, dividing it into several fractions.
+|-
+! scope="row"| Buyers and investors buy part of the enterprise according to the Leaxcoin rules, representing the fractions of the enterprise.
 |}
-{| class="wikitable"
-|-
-! scope="col"| The enterprise project is checked and evaluated by our community
-|-
-|}
-{| class="wikitable"
-|-
-! scope="col"| The Leax platform tokenizes the enterprise or part of it virtually, dividing it into several fractions.
-|-
-|}
-{| class="wikitable"
-|-
-! scope="col"| Buyers and investors buy part of the enterprise according to the Leaxcoin rules, representing the fractions of the enterprise.
-|-
-|}
+
 
 
 '''This is only viable with the help of Leaxcoin smart contracts, ensuring and making every moment of the sale campaign transparent.'''
@@ -364,23 +343,19 @@ They can buy a minimal percentage of the enterprise, because they believe in the
 [[File:Images/iphoneX.png|Wallet]]
 
 
+
 {| class="wikitable"
 |-
 ! scope="col"| Details
 |-
 ! scope="row"| SAFE: Assets are locked in the local storage of the portfolios away from any server.
 |-
+! scope="row"| PRIVATE: No personal data or private information is stored on any server.
+|-
+! scope="row"| AUTONOMY: The assets are always under the users' totalcontrol.
 |}
-{| class="wikitable"
-|-
-! scope="col"| PRIVATE: No personal data or private information is stored on any server.
-|-
-|}
-{| class="wikitable"
-|-
-! scope="col"| AUTONOMY: The assets are always under the users' totalcontrol.
-|-
-|}
+
+
 
 '''WALLET LEXCOIN'''
 
