@@ -1,0 +1,80 @@
+<pre> 
+  Title: Leaxcoin - Whitepaper
+  Author: @LeaxFoundation.  
+  Status: Active
+  Type: Paper
+  Created: 2017-09-12
+  Version: 1.1
+  License: MIT  
+</pre>
+
+=ABSTRACT=
+There is no doubt that the real estate market is the most stable investment, with a greater margin
+of profits and lower risks of loss. This is what makes it so attractive to investors – be they
+experienced or novices.
+
+Why is investing in real estate so safe? Basically, we can say that there is security in this type of
+investment for two reasons: great appreciation and hardly any depreciation over time.
+Besides, the majority of people not only see the purchase of a property as the guarantee of having
+a home but also as a way of owning an asset without having to worry about paying a rent, for
+instance.
+
+In the end, it is much easier to realize the importance of having a property – whether for
+investment or for own use. Such certainty runs into one of the biggest problems we have
+nowadays: bureaucracy and the high costs of real estate, especially in big cities
+Concerning bureaucracy, we can say with optimism that technology and the new way of seeing
+transactions might change the scenario in few years. Financing approval only for those who have a
+high income and the need of numerous documents prevents the process from occurring in a fluid
+and optimized way for both sides.
+
+Where does technology come to solve all this? The ones who know the new cryptocurrency and
+the Blockchain have already got an idea of the changes that are to come. The co-working
+platforms, like the ones we present in this document, facilitate all the processes and real estate
+negotiations – and the forecast is very optimistic.
+This type of transaction relies on the guarantee that they will not be tampered or altered,
+transforming the real estate process in something more intuitive, less bureaucratic and expensive,
+besides privacy, security and agility.
+
+This management will be done on Leaxcoin platform, being extremely safe for both parts.
+Nowadays, we have real estate transactions that last up to six months but they could be handled
+in a matter of days or even in hours with the new technologies.
+Next, we introduce LEAXCOIN, a decentralized platform in a global community format with the
+evolution of Blockchain in the real estate industry.
+
+=EXECUTIVE SUMMARY=
+
+'''Imagine that you can conduct a real estate transaction without the need of any type of
+intermediation, either by banks or third parts.'''
+
+This is a reality knocking at the door of new crypt-coin investors, just like Leaxcoin. Our main
+purpose is to have a focus of action through our platform and create a safe, fast and effective
+environment.
+
+Moreover, our focus will be on the real estate sector, which suffers with cumbersome bureaucracy
+– real estate processes which hamper trade, for instance, and gradually become more expensive.
+Additionally, we will also work on real estate transfers and make the transparence of peer-to-peer
+transactions possible, always respecting the jurisdiction of every country where the negotiation
+takes place.
+
+The cryptocurrency will be the used for payment within our platform. Through this process, real
+estate buyers and sellers will be able to negotiate their properties without any kind of
+intermediary and, at the same time, will receive their payment anywhere in the world with
+absolute guarantee.
+
+'''This is what we call decentralized operations nowadays – which do not need any bank as a
+mediator.'''
+
+The Leaxcoin has emerged to be much more than a simple transactional crypto currency, as well
+as a utility token that feeds the entire Leaxcoin platform. It comprises:
+
+<blockquote>  
+'''Market without intermediaries'''
+</blockquote>
+<blockquote>  
+A non-bank and non-intermediary market. A reliable and autonomous community that will
+assist with all the transactions and conflicts or problems that might occur. 
+</blockquote>
+
+
+
+
