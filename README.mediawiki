@@ -278,13 +278,10 @@ The potential buyer receives this contract, analyzes every clause and may or may
 
 <blockquote> ''' The property register is in the name of the buyer. '''<blockquote> 
 
+
 '''AT THE MOMENT THE TRANSACTION PAYMENT IS RECEIVED BY THE SELLER, THE LEAXCOIN PLATFORM TRANSFERS THE OWNERSHIP. ONCE CONCLUDED, THE SMART CONTRACT AWAITS A POSITIVE RESPONSE FROM BOTH PARTS AND CHECKS IN THE CONFIRMATION, RELEASING THE SALE BALANCE AND THE PROPERTY REGISTRATION. SIMPLE, EASY AND SAFE!'''
- 
- 
- 
- ===Property Listing and Opportunities===
   
- 
+====Property Listing and Opportunities====
 
 '''PROPERTY LISTING AND OPPORTUNITIES LEXCOIN'''
 
