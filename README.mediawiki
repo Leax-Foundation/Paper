@@ -107,7 +107,7 @@ and memorable with the support and participation of our Leaxcoin community.
 the area development! Only in 2017, the volume of global transactions reached 750 billion
 dollars!'''
 
-[[File:paper/images/market.png|Real Estate Market.]]
+[[File:images/market.png|Real Estate Market.]]
 
 Being aware of the dimension of this scenario, we believe that it offers a lot of opportunities,
 especially with the evolution of technology. After all, it has not been so explored yet. Who offers
