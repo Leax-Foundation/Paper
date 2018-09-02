@@ -78,6 +78,8 @@ Technological advances have enabled the automation of the whole banking process,
 
 In the current real estate market scenario, there are still disagreements between the parts with regard to contracts and transactions. Even a simple real estate lease is difficult to understand by both parts.
 
+
+
 =What is Leaxcoin=
 
 <blockquote> ''' "Forget about the problems about real estate transactions. A strong currency to be expanded all over the World!” '''<blockquote> 
@@ -94,6 +96,7 @@ The Leaxcoin will be used for several things in the cryptocurrency market. There
 
 =The Tiring Experience of Real Estate Negotiations=
 
+
 == The Problem ==
 
 '''Despite the potential real estate profits, we know that it is not easy to buy a property.'''
@@ -106,29 +109,38 @@ Without considering whether a property is traded in its country of origin or not
 
 In order to maximize the benefits and minimize the losses that people might suffer, we have the solution to the problems through the efforts of Leaxcoin and our community.
 
+
+
 ===Current trade problems===
+
 
 ====High Capital Requirements====
 
 Real state is usually very expensive and requires the investor/buyer to have high levels of capital. 
 For this reason, this market ends up driving away small real estate investors.
 
+
 ====Strict Financial Regulations for Access to Finance====
 
 Finance application is a time consuming process, especially because it is too bureaucratic.
 Moreover, the requirement of documents to prove the investor’s buying power results in unnecessary costs.
+
 
 ====High Transactional Costs====
 
 The traditional real estate market entails high transactional costs, mainly because many agents such as middlemen, brokers, taxes and real estate agents go into action, inflating the final price.
 The final cost of transacting a property can be inflated up to more than 22% of the real value of the property, an extra cost that can be eliminated with Leaxcoin technology.
 
+
 ====Integrity and Security====
+
 The decentralized nature of Leaxcoin guarantees that stored records will not be tampered with or controlled by a single source, avoiding fraud, insecurity, loss and/or duplicity of documents in the real estate processes.
+
 
 ====Time and Cost Savings====
 
 In the traditional real estate market, the process of transferring a property might take months due to the several parts involved, as well as the need to repeatedly verify all the documents in its different stages.
+
 
 ====Access to Foreign Investors====
 
@@ -137,6 +149,7 @@ Many foreigners interested in investing in real estate encounter considerable di
 Depending on each jurisdiction (country, state or city), the purchase process runs into many difficulties, as there are details about the negotiations such as financing, security, regulations and fees, together with all the bureaucracy to be seriously considered.
 
 Usually, it is necessary to hire real estate professionals to analyze all the documents in order to check any legal impediment, request debt clearance certificates and prevent fraud. All this prevents foreign investors from proceeding with the transaction.
+
 
 =New Experiences in Real Estate Transactions=
 
@@ -147,6 +160,7 @@ Usually, it is necessary to hire real estate professionals to analyze all the do
 The global public can trade and transact all their properties and real estate processes, with no borders or foreign and geographical delimitations.
 
 <blockquote>All this in a GLOBAL COMMUNITY format and totally DECENTRALIZED!<blockquote>
+
 
 ==Platform and Ecosystem Leaxcoin==
 
@@ -183,6 +197,7 @@ By becoming a user-friendly ecosystem of real estate Blockchain products, the Le
 
 '''THE LEAXCOIN ECOSYSTEM WILL FOCUS ON THE FOLLOWING ELEMENTS'''
 
+
 ===Property Registry===
 
 [[File:Images/world_transaction.png|Property Registry]]
@@ -190,11 +205,21 @@ By becoming a user-friendly ecosystem of real estate Blockchain products, the Le
 {| class="wikitable"
 |-
 ! scope="col"| Details
-|Simple, easy and intuitive system;
-|Global interaction of property registry maintenance;
-|Extensive Community and Global Support;
+|-
+! scope="row"| Simple, easy and intuitive system
 |-
 |}
+{| class="wikitable"
+|-
+! scope="col"| Global interaction of property registry maintenance
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| Extensive Community and Global Support
+|-
+|}
+
 
 '''PROPERTY REGISTRY LEAXCOIN'''
 
@@ -217,6 +242,7 @@ We can only succeed through the community and with its work. Together we can go 
 
 We are committed to guarantee that all the services will be in compliance with all the government regulations in each jurisdiction, always looking for quick and effective ways to eliminate risks and fraud.
 
+
 ===Smart Contract===
 
 The Leaxcoin platform is an important application of the blockchain technology in the form of Smart Contracts. These contracts are self-fulfilling agreements between the network members. Any information entered into these contracts is automatically treated according to a previously agreed protocol.
@@ -224,6 +250,7 @@ The Leaxcoin platform is an important application of the blockchain technology i
 As this protocol is the only transaction arbiter, it can be carried out in a transparent way, free from conflicts, without high costs and time consuming intermediaries or other verification processes.
 
 [[File:Images/smart_contract_plataform.png|Real Estate Contracts]]
+
 
 ====Real Estate Contracts====
 
@@ -236,11 +263,21 @@ Our global Leaxcoin contract platform consists of a system whose model allows co
 {| class="wikitable"
 |-
 ! scope="col"| Operation
-|1- Both Parts Agree to Transact a property
-|2 - The Leaxcoin smart contract manages the relationship between the parts
-|3 - The Leaxcoin Smart Contract executes and closes the agreement
+|-
+! scope="row"| Both Parts Agree to Transact a property
 |-
 |}
+{| class="wikitable"
+|-
+! scope="col"| The Leaxcoin smart contract manages the relationship between the parts
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| The Leaxcoin Smart Contract executes and closes the agreement
+|-
+|}
+
 
 '''Here is an example:'''
 
@@ -252,16 +289,449 @@ The potential buyer receives this contract, analyzes every clause and may or may
 
 <blockquote> ''' The property register is in the name of the buyer. '''<blockquote> 
 
+'''AT THE MOMENT THE TRANSACTION PAYMENT IS RECEIVED BY THE SELLER, THE LEAXCOIN PLATFORM TRANSFERS THE OWNERSHIP. ONCE CONCLUDED, THE SMART CONTRACT AWAITS A POSITIVE RESPONSE FROM BOTH PARTS AND CHECKS IN THE CONFIRMATION, RELEASING THE SALE BALANCE AND THE PROPERTY REGISTRATION. SIMPLE, EASY AND SAFE!'''
+
+
+====Property Listing and Opportunities====
+
+'''PROPERTY LISTING AND OPPORTUNITIES LEXCOIN'''
+
+{| class="wikitable"
+|-
+! scope="col"| BUY
+! scope="col"| SALE
+! scope="col"| RENTAL
+! scope="col"| NEW REAL ESTATE
+|-
+|}
+
+The real estate listing Leaxcoin platform will allow owners to list their properties for rent or sale and distribute them to rental and sale popular sites on the web.
+
+'''This also allows other investors and buyers who already use crypto-currency technologies to enter the real estate market.'''
+
+[[File:Images/insert_proposal.png|Insert Proposal in Plataform]]
+
+The system rewards sites and decentralized real estate brokers by appointing investors/buyers tocomplete the purchase process.
+
+Every seller may provide a commission percentage. If the process is concluded, the platform will automatically make the percentage available on Leaxcoin via smart contracts.
+
+
+====Crowd Sale Launches of Real Estate Developments====
+
+'''TOKENIZATION REAL ESTATE'''
+
+The crowdsale happens in the launching of a real estate project. It is conceived to generate funds for its development and investment.
+
+''' At this stage, the investment in the real estate market is usually more profitable, having this market been previously accessible only to major investors: the construction of the enterprise. '''
+
+This Leaxcoin platform module allows companies, developers and owners to tokenize fractions or percentages of their developments into real estate assets so as to sell them at the launching stage.
+
+
+[[File:Images/api.png|Crowdsale Real State]]
+
+'''Example:'''
+
+{| class="wikitable"
+|-
+! scope="col"| An incorporator intends to start selling a new enterprise at the launching stage of fraction or percentage.
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| The enterprise project is checked and evaluated by our community
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| The Leax platform tokenizes the enterprise or part of it virtually, dividing it into several fractions.
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| Buyers and investors buy part of the enterprise according to the Leaxcoin rules, representing the fractions of the enterprise.
+|-
+|}
+
+
+'''This is only viable with the help of Leaxcoin smart contracts, ensuring and making every moment of the sale campaign transparent.'''
+
+The most interesting part of a crowdsale is what happens to the projects later. In many cases, they are bought and sold in the open market, obtaining a higher market value, that is, if the enterprise is as successful as they expect, the real estate can increase in value, generating considerable profits ahead.
+
+They can buy a minimal percentage of the enterprise, because they believe in the potential for profits, either in the enterprise or in its sale. Such market used to be accessible only to major investors.
+
+=Wallet=
+
+[[File:Images/iphoneX.png|Wallet]]
+
+
+{| class="wikitable"
+|-
+! scope="col"| Details
+|-
+! scope="row"| SAFE: Assets are locked in the local storage of the portfolios away from any server.
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| PRIVATE: No personal data or private information is stored on any server.
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| AUTONOMY: The assets are always under the users' totalcontrol.
+|-
+|}
+
+'''WALLET LEXCOIN'''
+
+The Leaxcoin wallet will be fully developed on the Ethereum blockchain network, which is encrypted to avoid fraud and theft, having the following functions:
+
+'''RECEIVING:''' receiving from anyone on the Leaxcoin network.
+
+'''PURCHASE:''' buy Leaxcoins in the ICO period.
+
+'''TRANSACTION:''' all the transactions will be registered on the Ethereum blockchain network, and users can verify every transaction, which cannot be deleted.
+
+'''FEES:''' each transaction requires a fee (gas price), that is, a fee to the network maintenance and to reward the users who process these transactions on their computers (we use the Ethereum network), in order to keep the network incorruptible, safe, running and fully distributed.
 
 
 
+=Global Support and Community=
+
+[[File:Images/community.png|Community]]
+
+
+{| class="wikitable"
+|-
+! scope="col"| Details
+|-
+! scope="row"| DECENTRALIZED ORGANIZATION
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| EMBASSADORS ALL OVER THE WORLD
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| INCENTIVE AND REWARD PROGRAMS
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| VOTING ORGANIZATION SYSTEM
+|-
+|}
+
+<blockquote> ''' “Leaxcoin is pleased to be a true real estate community all over the world “ '''<blockquote> 
+
+
+'''TOGETHER, WE JOIN FORCES TO BUILD A GLOBAL COMMUNITY OF THE BLOCKCHAIN REVOLUTION ENTHUSIASTS, PROVIDING NEW RESOURCES IN ORDER TO FOMENT THE REAL ESTATE WORLD REVOLUTION.'''
+
+
+<blockquote> Leaxcoin, a community-based initiative, is a real open source project created by a global community of developers, engineers, executives, designers, academics, economists and blockchain enthusiasts, who have committed to including Leaxcoins into the main crypto currencies and making the decentralized technologies accessible to everybody. <blockquote> 
+
+Our community’s main aim is to help with jurisdictional problems in every country, as well as with probable changes that might come along during real estate processes, either technological or related to regulations, and the only way out is to have a team committed to helping solve every legal problem.
+
+All the implementation on the Leaxcoin platform will have the support of the community, always encouraged and actively rewarded for their involvement, as according to our distribution of Leaxcoin tokens, part of the fees will be passed on exclusively to those members and/or professionals, therefore stimulating the excellent platform members’ performance in serving and helping to clear up doubts and afflictions.
+
+All Leax users are entitled to votes and opinions, at a 1-1 rate, one token per vote. Anyone in the community may contribute with ideas, feedback, codes, design, support and dissemination of the Leax project, since each location has its own jurisdiction, always discussed within the own internal community, forum and debates.
+
+
+'''The community is organized and divided into Ambassadors, Developers and Managers.'''
+
+
+==Ambassadors==
+
+Ambassadors will be in charge of the management and legal agreements between the countries, cities and regions of their activity or specialty, helping and concluding agreements with real estate registrars involved in the Leax platform. These representatives will be maintained and chosen by the community members. They will provide maximum flexibility in face-to-face procedures, where the presence of a project representative is needed. As we know, laws are not fixed or intelligent, and have not evolved at the same speed as technology. In some countries, it is still necessary to deal with processes manually, according to the local jurisdiction. This is the role of the ambassador, who is always connected to the real estate regulating organs whenever necessary. The platform will be fully automated so as to reduce the necessary time for the real estate processes. 
+
+
+==Developers==
+
+Developers – all our codes will be totally open source, as we understand that a platform must be fully modulated and able to easily interact with any problem, in a righteous and innovating way. All new developers will be welcome to correct, update and create new solutions to the community. We will have a great core team behind and, with the help of everybody, will always have a platform that represents its members’ opinions. 
+
+
+==Community Managers==
+
+Community Managers will aim at helping the local community develop meetups, lectures, events, support and publicity of the Leaxcoin Project.
+
+Every community needs some incentives to continue being fair and cooperative with all members. In order to ensure good social interaction with each other and encourage their contributions to the community, part of the platform fees will be allocated to the members who have positively helped the in the completion of any real estate process, such as a sale.
+
+Our community will be rewarded with improvements on the platform. There will be a reward for denunciation of fake enterprises or malicious advertisements as well as to ambassadors, developers and managers of local communities and for successful real estate processes. 
+
+All the platform fees will be fully subsidized at the first moment of the operation or until the tokens used for this purpose finish. After that, part of the fees paid to the Leaxcoin platform will be allocated to members directly connected to this transaction. All this process will be encoded in smart contracts, ensuring a mutual help and reward cycle.
+
+
+=Growth Target=
+
+'''No one can argue against the current Crypto Market force. In 2017, the market capitalization was evaluated in 400 billion dollars.'''
+
+Cryptocurrencies challenge current economic structures and allow instant transactions with no interference of third parts, such as banks and governments. 
+
+<blockquote>The largest cryptocoin is still the first, Bitcoin. Its only unit reached $20,000 in 2017</blockquote>
+
+Once these cryptocoins enter the market, they turn into negotiable and exchangeable assets, very similar to the traditional stock markets for fiduciary money and other assets.
+
+The demand for this market is high, some cryptocurrency exchanges have reached more than one billion dollar in daily turnover. This proves how a new market is climbing the financial ladder much faster than any of its predecessors.
+
+Taking the volume of transactions into account (presented data in the current scenario), the growth of cryptocurrencies and the universalization of the real estate sector, we can predict very positive indicators of global negotiations, and this requires a platform prepared to guarantee the best experience for the users involved.
+
+[[File:Images/negociations.png|Negociations]]
 
 
 
+=Blockchain=
+
+'''The Leaxcoin, uses the blockchain of Ethereum, use Ethereum, one of the most advanced and reliable blockchains to create safe smart contracts.'''
+
+A Smart Contract is a self-executing computer protocol, made to facilitate and reinforce the negotiations and/or performance of a contract, providing reliability to online transactions. This type of contract was created with the popularization of cryptocurrencies, as it is a way of providing security and transparency to the transactions made by a currency.
+
+The main aim of the Smart Contract is precisely to enable people who do not know each other, who may live on the other side of the world, to do business on the Internet with confidence, without requiring the interference of a central authority.
+
+<blockquote>Unlike what happens to Bitcoin, with the evolution of Leaxcoin in the Ethereum blockchain, it is possible to reduce the transaction costs, obtain more transparency, security, agility and speed, without any probability of inactivity, censorship, fraud or interference from third parties.</blockquote>
+
+The token was developed according to the main token pattern used by the Ethereum community, Smart Contract standard ERC20. You can keep your Leaxcoin tokens in the main wallets, such as MyEthWallet, Ledger Ethereum and the official Wallet of Ethereum network, called Mist.
+
+
+=Incentives=
+
+'''All buyers have free access to consult and interact with sellers through our Leaxcoin platform.'''
+
+The purchases paid with Leaxcoin will have discounts on the final value of the transaction. In this way, we encourage using Leaxcoin to guarantee more agility in the process, making the payment much more quickly.
+
+All the contracts are registered and saved on the Leaxcoin platform on the blockchain, ensuring that your contract will never get lost or tampered by third parts.
+
+Any individual or real estate institution can access and advertise all their real estate, reaching investors in this market much more quickly.
+
+<blockquote>It is a strong currency, unique to the real estate market, which can be integrated by any software, thanks to an external API that we will make it available.</blockquote>
+
+We believe that users should be rewarded for contributing to the success of the platform. For every purchase/sale, rent of enterprises, all the parts involved will be rewarded.
+
+
+=Token Distribution=
+
+{| class="wikitable"
+|-
+! scope="col"| NAME
+|LEAXCOIN
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| SYMBOL
+|LEAX
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| DECIMAL
+|18
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| TOKEN TOTAL
+|2,000,000,000
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| TYPE
+|ERC20
+|-
+|}
+
+With the aim of financing researches and platform development, the Leaxcoin will hold a coin distribution event, offering a limited issue of 1 billion tokens totaling 2 billion.
+
+All revenues referring to the initial contribution period will be used to finance the development, information security and expansion of the platform.
 
 
 
+==Distribution==
 
+{| class="wikitable"
+|-
+! scope="col"| TOKEN TOTAL
+|2,000,000,000
+|-
+|}
+
+--------------------------------+----------------------------------------------
+
+{| class="wikitable"
+|-
+! scope="col"| Pre-ICO Private e ICO 
+|50%...................1,000,000,000
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| Awards and Reservation for Community
+|23%...................460,000000
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| Bounty
+|15%..................300,000,000
+|-
+|}
+{| class="wikitable"
+|-
+! scope="col"| Team (Frozen 12 months) 
+|12%..................240,000,000
+|-
+|}
+
+[[File:Images/chart_1.png|Distribution]]
+
+The Pre-ICO will be made for private investors and only after the completion of the anticipated sale will we make the ICO public, when everybody will be able to acquire the Leaxcoin tokens.
+
+The accepted crypto coins will be Ethereum, Bitcoin and Litecoin and others.
+
+To purchase the Leaxcoin Token in the ICO period, you must visit the website in order to be informed about the start of sales in advance.
+
+It is extremely important to sign up by email, as the purchase vacancies are limited, and there will only be 2 billion tokens available, for an initial value of $0,05 dollars both represented in 0,0001 ether. 
+
+
+==Rates and Reserves for Community==
+
+Every trade platform needs some time to come to maturity. As we know, the LEAX token has a limited number, and we believe that at the beginning of the operations, a platform cannot offer high costs to users.
+
+With this view and with planning, our platform will use this reserve to subsidize the negotiations until the total balance allocated to reserves finishes and the negotiations pay their own fees. 
+
+
+'''Our Ambassador program aims to create local communities for information dissemination and training with the platform evangelization in the country of operation.'''
+
+The incentive to be an Ambassador will be the fees paid to the network advisors in each country. The raising of these subsidies will be possible.
+
+The services done by all the ambassadors will be evaluated by the local users.
+
+The fees and incentives will be divided into the following definitions:
+
+{| class="wikitable"
+|-
+! scope="col"| Incentive
+! scope="col"| Percentage
+! scope="col"| Rate
+|-
+! scope="row"| Operational costs
+| 1%
+| 0.1
+|-
+! scope="row"| Ambassadors
+| 2%
+| 0.2
+|-
+! scope="row"| Office notaries
+| 3%
+| 0.3
+|}
+
+
+==Bounty==
+
+The Bounty program will reward the community members who help with translations, events, development and significant contributions to start up the project. We believe that we will evolve quickly with the help of the community and this incentive will come from Bounty.
+
+The Leaxcoin offers several types of rewards, allowing anyone to get the Leax for their contributions to Leaxcoin. If you are a content creator or even a keen user, take a look at the percentages for marketing rewards.
+
+The worksheet below shows the percentage and reward of each activity and how they will be distributed.
+
+[[File:Images/bounty.png|Bounty]]
+
+
+=Post-ico Funds Allocation=
+
+[[File:Images/chart_2.png|Allocation]]
+
+
+==Marketing==
+
+Marketing – Relationships and culture development, costumer humanized support, fairs and events for the conversion of service providers and inbound/outbound marketing directed to the final user.
+
+As we know, we live in an increasingly globalized world nowadays, with total exposure to so much information that it is difficult to reach investors.
+
+For this very same reason, we will allocate part of the money to the platform marketing – both digital and traditional marketing in newspapers and specialized magazines.
+
+Every project needs to be exposed and publicized, so part of the amount raised goes to the platform marketing planning so as to attract and form partnerships with the global media.
+
+'''WE WILL DIVIDE THE PLATFORM MARKETING PLANNING IN THE FOLLOWING WAY (BOUNTY): '''
+
+
+{| class="wikitable"
+|-
+! scope="col"| Incentive
+! scope="col"| Percentage
+|-
+! scope="row"| Social Media
+| 30%
+|-
+! scope="row"| Journal / Newspapers
+| 20%
+|-
+! scope="row"| Specialized Sites / Blogs
+| 20%
+|-
+! scope="row"| Digital Media
+| 30%
+|}
+
+
+
+==Engineering and Development==
+
+We use a set of DevOps practices, aimed at developers that actively interact with IT specialists and the mutual integration of their work processes. It is based on the practices of world leaders in software development.
+
+Our team has successful extensive experience in the assurance of the quality of software products.
+
+All the value allocated to development will help pay the creation of a fast, safe and intuitive platform, where anyone can invest in real estate.
+
+The development of the platform of automated creation of contracts between the parts involved in the negotiation allows buyers to transfer ownership to another person on the platform, if they like.
+
+
+==Api==
+
+'''API''' – API is a set of routines and programming standards for access to a software application or Web-based platform. API stands for ‘Application Programming Interface’.
+
+Google Maps is an excellent example in the API area. Through its original code, many other sites and applications use the Google Maps data and adapt them in the best way.
+
+'''Didital Security''' – Part of the resources will be allocated to the prevention of cybercrimes.
+
+'''Legal''' – In order to expand our work all over the countries, we will need to pay for the services of awyers or legal consultants. As every place of action has different laws, we will need to pay for this process.
+
+'''Operational''' – 27% of the funds will be allocated to operational costs.
+
+=Conclusion=
+
+The crypto-currency market is growing, as well as the virtual world. Considering that the numerous transactions have already been made on the Internet, everything makes us believe that almost all the market will be online in the near future.
+
+The use of cryptocurrency is a trend, especially because of the agility and ease with which all the transactions are carried out.
+
+Richard Branson, the founder of Virgin, claimed that the virtual currencies are causing a real economic revolution. And this could not be more true! One of the clear signs of the paradigm shift in cryptocurrency is that Germany, one of the countries with the highest authority on financial regulations, has already allowed Bitcoin as a means of payment.
+
+Pedro Pinheiro, from Porto Business School (Portugal), remarked that he believes in a very promising future for the cryptocurrency market, confident that the virtual currency will keep growing and has already ensured considerable relevance in the global financial market.
+
+Jack Dorsey, Twitter CEO, also thinks like that, foreseeing the virtual currencies as popular as the Euro or Dollar – and maybe replacing them.
+
+Therefore, the Leaxcoin is an excellent opportunity for a promising gain, not only for the steady appreciation of cryptocurrencies, but also for the transaction of more profitable assets ever.
+
+Although this is a market in operation, it brings countless benefits to the population in general. We are talking about a strong global currency, capable of transacting real estate and non-real estate easily, quickly, without bureaucracy and with strict security all over the world.
+
+The perfect solution to all investors who want to guarantee their success in the business of the future.
+
+
+=Liability Exemption=
+
+'''General Warning – By using our services and participating in our ICO, you fully understand that:'''
+
+1.1 Taxpayers are advised to read this document carefully and assess the risks accurately, according to their personal definitions.
+1.2 This Initial Cryptocurrency Offer, commonly referred to as ICO, is not about security offers or collective investment.
+1.3 The Leaxcoin Token will be offered in the form of an ERC20 Smart Contract, Ethereum technology and, given the very essence of this technology, once executed, this contract cannot be changed.
+1.4 The Tokens will be issued according to the orders, on a first-come-first-served basis, until the predicted hard cap is reached, or until the pre-sale period finishes. Any value received after the hard cap is reached will be totally refunded to the user.
+1.5 The user states to be aware of that when transferring funds to ICO, this transfer cannot be cancelled, nor can the refund be done, except for the cases provided for in item 1.4.
+1.6 The user states to be aware that the Leaxcoin does not act as a tax agent and understands that the user is always responsible for following the current tax laws in their countries.
+1.7 This white paper consists of a prospectus of the Leaxcoin project, including the goal setting,the structure, a strategic map of presentation, legal components involving the type of segment and the context in which it is inserted. The prospectuses here do not carry any guarantee to the user that all the provisions contained in this document will be met, since they depend on external and market factors.
 
 
 
