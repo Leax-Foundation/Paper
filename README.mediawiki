@@ -205,7 +205,6 @@ By becoming a user-friendly ecosystem of real estate Blockchain products, the Le
 {| class="wikitable"
 |-
 ! scope="col"| Details
-! scope="col"| Operation
 |-
 ! scope="row"| Simple, easy and intuitive system
 |-
@@ -260,12 +259,15 @@ Our global Leaxcoin contract platform consists of a system whose model allows co
 |-
 ! scope="row"| Both Parts Agree to Transact a property
 |-
-! scope="row"| The Leaxcoin smart contract manages the relationship between the parts
+! scope="row"|       The Leaxcoin smart contract manages the relationship between the parts                  
 |-
 ! scope="row"| The Leaxcoin Smart Contract executes and closes the agreement
 |}
 
-
+ 
+  
+   
+   
 '''Here is an example:'''
 
 In order to complete a property transaction, both users must have their Leaxcoin wallet. In this case, the seller draws up the purchase agreement and then inserts it through the Leaxcoin platform on the Blockchain.
@@ -277,9 +279,12 @@ The potential buyer receives this contract, analyzes every clause and may or may
 <blockquote> ''' The property register is in the name of the buyer. '''<blockquote> 
 
 '''AT THE MOMENT THE TRANSACTION PAYMENT IS RECEIVED BY THE SELLER, THE LEAXCOIN PLATFORM TRANSFERS THE OWNERSHIP. ONCE CONCLUDED, THE SMART CONTRACT AWAITS A POSITIVE RESPONSE FROM BOTH PARTS AND CHECKS IN THE CONFIRMATION, RELEASING THE SALE BALANCE AND THE PROPERTY REGISTRATION. SIMPLE, EASY AND SAFE!'''
-
-
-====Property Listing and Opportunities====
+ 
+ 
+ 
+ ====Property Listing and Opportunities====
+  
+ 
 
 '''PROPERTY LISTING AND OPPORTUNITIES LEXCOIN'''
 
@@ -288,7 +293,7 @@ The potential buyer receives this contract, analyzes every clause and may or may
 ! scope="col"| BUY
 ! scope="col"| SALE
 ! scope="col"| RENTAL
-! scope="col"| NEW REAL ESTATE
+! scope="col"|              NEW REAL ESTATE                          
 |-
 |}
 
@@ -348,11 +353,11 @@ They can buy a minimal percentage of the enterprise, because they believe in the
 |-
 ! scope="col"| Details
 |-
-! scope="row"| SAFE: Assets are locked in the local storage of the portfolios away from any server.
+! scope="row"|              SAFE: Assets are locked in the local storage of the portfolios away from any server.
 |-
-! scope="row"| PRIVATE: No personal data or private information is stored on any server.
+! scope="row"|      PRIVATE: No personal data or private information is stored on any server.
 |-
-! scope="row"| AUTONOMY: The assets are always under the users' totalcontrol.
+! scope="row"|      AUTONOMY: The assets are always under the users' totalcontrol.
 |}
 
 
@@ -382,7 +387,7 @@ The Leaxcoin wallet will be fully developed on the Ethereum blockchain network, 
 |-
 ! scope="row"| DECENTRALIZED ORGANIZATION
 |-
-! scope="row"| EMBASSADORS ALL OVER THE WORLD
+! scope="row"|              EMBASSADORS ALL OVER THE WORLD                   
 |-
 ! scope="row"| INCENTIVE AND REWARD PROGRAMS
 |-
@@ -485,7 +490,7 @@ We believe that users should be rewarded for contributing to the success of the 
 | LEAXCOIN
 |-
 ! scope="row"| SYMBOL
-| LEAXCOIN
+| LEAX
 |-
 ! scope="row"| DECIMAL
 | 18
@@ -517,19 +522,24 @@ All revenues referring to the initial contribution period will be used to financ
 {| class="wikitable"
 |-
 ! scope="col"| Details
+! scope="col"| %
 ! scope="col"| Value
 |-
 ! scope="row"| Pre-ICO Private e ICO
-| 50%...................1,000,000,000
+|      50%
+| 1,000,000,000
 |-
 ! scope="row"| Awards and Reservation for Community
-| 23%...................460,000000
+|      23%
+| 460,000000
 |-
 ! scope="row"| Bounty
-| 15%..................300,000,000
+|      15%
+| 300,000,000
 |-
 ! scope="row"| Team (Frozen 12 months)
-| 12%..................240,000,000
+|      12%
+| 240,000,000
 |}
 
 [[File:Images/chart_1.png|Distribution]]
